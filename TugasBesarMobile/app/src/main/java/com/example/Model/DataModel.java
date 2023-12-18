@@ -1,4 +1,4 @@
-package com.example.taskmanager.Model;
+package com.example.TugasBesarMobile.Model;
 
 public class DataModel {
     private int id;
